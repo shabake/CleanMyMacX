@@ -1,0 +1,2 @@
+# CleanMyMacX
+CleanMyMac X
